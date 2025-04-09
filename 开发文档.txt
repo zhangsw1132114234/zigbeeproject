@@ -1,0 +1,11 @@
+2025/3/30
+1.ETH LWIP移植
+2.USB FATFS移植
+
+FreeRTOS任务
+1.LVGL
+2.WebServer
+3.Zigbee接收
+
+遇到的问题
+1.FreeRTOS移植LWIP后开启LWIP_UDP和LWIP_DNS

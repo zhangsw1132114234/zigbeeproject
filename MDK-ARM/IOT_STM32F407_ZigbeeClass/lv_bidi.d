@@ -1,0 +1,17 @@
+iot_stm32f407_zigbeeclass\lv_bidi.o: ..\Middlewares\Third_Party\lvgl\src\misc\lv_bidi.c
+iot_stm32f407_zigbeeclass\lv_bidi.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+iot_stm32f407_zigbeeclass\lv_bidi.o: ..\Middlewares\Third_Party\lvgl\src\misc\lv_bidi.h
+iot_stm32f407_zigbeeclass\lv_bidi.o: ..\Middlewares\Third_Party\lvgl\src\misc\../lv_conf_internal.h
+iot_stm32f407_zigbeeclass\lv_bidi.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+iot_stm32f407_zigbeeclass\lv_bidi.o: ..\Middlewares\Third_Party\lvgl\src\misc\../lv_conf_kconfig.h
+iot_stm32f407_zigbeeclass\lv_bidi.o: ..\Middlewares\Third_Party\lvgl\src\extra\../../lv_conf.h
+iot_stm32f407_zigbeeclass\lv_bidi.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+iot_stm32f407_zigbeeclass\lv_bidi.o: ..\Middlewares\Third_Party\lvgl\src\misc\lv_txt.h
+iot_stm32f407_zigbeeclass\lv_bidi.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+iot_stm32f407_zigbeeclass\lv_bidi.o: ..\Middlewares\Third_Party\lvgl\src\misc\lv_area.h
+iot_stm32f407_zigbeeclass\lv_bidi.o: ..\Middlewares\Third_Party\lvgl\src\misc\../font/lv_font.h
+iot_stm32f407_zigbeeclass\lv_bidi.o: ..\Middlewares\Third_Party\lvgl\src\misc\../font/lv_symbol_def.h
+iot_stm32f407_zigbeeclass\lv_bidi.o: ..\Middlewares\Third_Party\lvgl\src\misc\lv_printf.h
+iot_stm32f407_zigbeeclass\lv_bidi.o: ..\Middlewares\Third_Party\lvgl\src\misc\lv_types.h
+iot_stm32f407_zigbeeclass\lv_bidi.o: ..\Middlewares\Third_Party\lvgl\src\misc\../misc/lv_mem.h
+iot_stm32f407_zigbeeclass\lv_bidi.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
